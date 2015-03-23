@@ -1,0 +1,3 @@
+red team	15
+green team	5
+blue team	25
